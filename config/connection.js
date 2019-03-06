@@ -8,7 +8,7 @@ connection= mysql.createConnection(process.env.JAWDB_URL);
   connection = mysql.createConnection({
     host: 'localhost',
     user: 'root',
-    password: 'myneempire@2016',
+    password: '',
     database: 'burger_db'
   });
 };
@@ -17,7 +17,7 @@ var connection = mysql.createConnection({
   port: 3306,
   host: "localhost",
   user: "root",
-  password: "newempire@2016",
+  password: "",
   database: "burgers_db"
 });
 
