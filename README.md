@@ -28,4 +28,8 @@
 
 <h2><strong>Author</strong></h2>
 * CJ Summers
+<<<<<<< HEAD
 <br>
+=======
+<br>
+>>>>>>> 5cbce41893da76df2c02140d25e252d709761c6c

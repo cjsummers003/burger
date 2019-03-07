@@ -57,7 +57,11 @@ li {
       text-shadow: 2px 2px #ffffff;
   }
 
+<<<<<<< HEAD
   .adaburger{
+=======
+ .adaburger{
+>>>>>>> 5cbce41893da76df2c02140d25e252d709761c6c
     margin: 10px;
     margin-left: 300px;
     width: 500px;
@@ -68,7 +72,11 @@ li {
       text-align: center;
       text-shadow: 1px 1px #ffffff;
   }
+<<<<<<< HEAD
   
+=======
+
+>>>>>>> 5cbce41893da76df2c02140d25e252d709761c6c
   h2 {
     font-family: 'Alfa Slab One', cursive;
     color: Red;
