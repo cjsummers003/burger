@@ -1,4 +1,5 @@
 # It's Burger Time!
+https://obscure-badlands-17964.herokuapp.com
 
 <h2><strong>What is "It's Burger Time!"</strong></h2>
   * This is a restaurant app that lets users input the names of burgers they'd like to eat.<br>
@@ -28,8 +29,4 @@
 
 <h2><strong>Author</strong></h2>
 * CJ Summers
-<<<<<<< HEAD
-<br>
-=======
-<br>
->>>>>>> 5cbce41893da76df2c02140d25e252d709761c6c
+
